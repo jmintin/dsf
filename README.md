@@ -1,2 +1,3 @@
 # dsf
-dsf
+def fromat(a):
+  return "%"
